@@ -17,6 +17,13 @@ More examples:
 + I recently met an old work acquaintance of mine and I hardly recongnized him.
 + I hope you'll consider me a friend and not just acquaintance.
 
+Collocations:
+1. casual acquaintance
+   
+2. close acquaintance
+   
+3. intimate acquaintance
+
 Idioms:
 
 have a passing/slight/nodding acquaintance with sth:
@@ -214,6 +221,51 @@ to leave someone in a difficult situation without any help:
 
 We were left high and dry without any money or credit cards.
 
+#### intimate
+adjective
+
+1. (personal) having, or being likely to cause, a very close friendship or personal or sexual relationship:
+   
+   intimate relationships/acquaintance
+
+   The restaurant has a very intimate **atmosphere**
+
+   He's become very initmate **with** an actress
+
+   The disease is spread through initmate sexual activity
+
+2. (expert) (of knowledge or understanding) detailed, and obtained from a lot of studying or experience:
+   
+   She has an intimate knowledge of Tuscany, where she has lived for 20 years.
+
+verb
+1.[formal] to make clear what you think or want without saying is directly:
+
+   [+ (that)] She has intimated **that** she will resign if she loses the vote.
+ 
+noun
+
+1. [formal] a friend you know very well
+   Intimates of the star say that he has been upset by the personal attacks on him that have appeared in the press recently.
+
+Compare:
+
+#### confidant 
+noun (female also confidante)
+
+a person you trust and share you feelings and secrets with:
+
+a close confidant
+
+Her brother is her closest confidant.
+
+
+
+
+
+
+
+   
 
 
 
