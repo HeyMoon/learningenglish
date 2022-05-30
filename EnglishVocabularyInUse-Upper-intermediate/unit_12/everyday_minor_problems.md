@@ -456,7 +456,7 @@ noun
 #### stain
 verb
 
-1. [verb/noun] to leave a mark on something that is difficult to remove:
+1. [verb] to leave a mark on something that is difficult to remove:
    
    Tomato sauce stains terribly - it's really difficult to get it out of clothes.
 
@@ -464,9 +464,23 @@ verb
 
 2. to permanently spoil something such as someone's reputation:
    
-   Several important politicians have had their reputations stained by this scandal.
+   Several important politicians have had their reputations stained **by** this scandal.
 
-   The country's history is stained with the blood of (= the country is guilty of killing) millions of innocent men and women.
+   The country's history is stained **with** the blood of (= the country is guilty of killing) millions of innocent men and women.
+
+noun
+
+1. a dirty mark on something that is difficult remove:
+   
+   a blood/grass stain
+
+   You can remove a red wine stain from a carpet by sprinkling salt over it.
+
+2. a chemical for changing the colour of something:
+   
+3. permanent damage to someone's reputation or character:
+
+   His solicitor said, "He leaves this court without a stain on his character".   
 
 
 #### split
