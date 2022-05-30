@@ -39,7 +39,20 @@ noun:
 #### admission
 noun
 
-1. the act of agreeing that something is true, especially unwillingly:
+1. the money that you pay to enter a place:
+   
+   How much do they charge for admission?
+
+   The admission charge/fee is $5.
+
+2. permission to enter a place:
+   
+   Admission **to** the exhibition will be by invitation only.
+
+   There's a notice outside the building that says "No admission before twelve noon".
+
+
+3. the act of agreeing that something is true, especially unwillingly:
    
    Her silence was taken as an admission **of** guilt/defeat.
 
