@@ -72,7 +72,7 @@ an acquired taste: something that you dislike at first, but that you start to li
 #### idolise
 verb
 
-1. to admire an respect someone very much, often too much
+1. to admire and respect someone very much, often too much
    She idolised her father
 
 synonyms:
@@ -153,7 +153,7 @@ synonyms:
 ##### abhor
 verb, formal
 
-to hate a way of behaving or thinking,often because you think it is not mormal
+to hate a way of behaving or thinking,often because you think it is not moral
 
 I abhor all forms of racism
 
@@ -187,7 +187,6 @@ to forget to take something or someone with you:
 
 I think I must have left my keys behind.
 
-
 #### leave sb/sth in the dust
 1. to easily defeat or be much better than someone or something:
    
@@ -205,7 +204,7 @@ a person, group,etc. competing with others for the same thing or in the same are
 
 synonyms:
 
-1. challenger: someone who tries to win a competition,flight or sports event from someone who has previously won it
+1. challenger: someone who tries to win a competition,fight or sports event from someone who has previously won it
 
 2. competitor:a person, team or company that is competing against others
 
@@ -239,7 +238,7 @@ adjective
    She has an intimate knowledge of Tuscany, where she has lived for 20 years.
 
 verb
-1.[formal] to make clear what you think or want without saying is directly:
+1.[formal] to make clear what you think or want without saying it directly:
 
    [+ (that)] She has intimated **that** she will resign if she loses the vote.
  
