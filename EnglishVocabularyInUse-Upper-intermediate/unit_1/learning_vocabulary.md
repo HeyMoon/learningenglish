@@ -60,6 +60,44 @@ adjective
 #### witty
 using words in a clever and funny way:
 
+noun: wit : 
+
+1. the ability to use words in a clever and humorous way:
+
+a woman of great intelligence and wit
+
+Her conversation sparkled with her own subtle blend of wit and charm.
+
+2. a person who is skilled at using words in a clever and humorous way:
+   
+
+#### blend
+noun
+
+1. a mixture of different things or styles:
+   
+   a rich blend of finest coffee beans
+
+   Their music is a blend of jazz and African rhythms
+
+2. a word formed by combining two other words:
+
+   "Meritage" is a blend that combines "merit" and "heritage"
+
+verb
+
+1. to mix or combine things together, or to mix or combine with something else, to make one substance:
+   
+   In a separate bowl, blend the egg an cream.
+
+   Stir until the flour is blended **into** butter.
+
+2. to combine with something else in a way that is attractive or works well, or to combine things like this:
+   
+   The carpet blends well **with** the colour of the walls
+
+   They seamlessly blend elements of jazz and classical music
+
 #### convey
 verb
 
@@ -147,10 +185,197 @@ noun
 
 3. the quality of being kind to people and not judging them in a severe way
    
+#### coin
+verb
+
+1. to invert a new word or expression, or to use one in a particular way for the first time:
+   
+   to coin new words/ a term / a phrase
+
+#### royal
+adjective
+
+1. belonging or connected to a king or queen or a member of their family:
+   
+   the royal family
+
+   a royal visit
+
+2. good or excellent, as if intended for or typical of royalty:
+   
+   The term was given a royal reception/welcome.
+
+3. big or great:
+
+   a royal pain/ a royal mess / a royal palace
+
+#### regal
+adjective
+
+very special and suitable for a king or queen:
+
+1. a regal manner
+
+2. He made a regal entrance
+
+#### majestic
+adjective
+
+beautiful, powerful, or causing great admiration and respect:
+
+The majestic Montana scenery will leave you breathless.
+
+Synonyms:
+1. magnificent
+2. splendid
+
+#### subtle
+adjective
+
+1. not loud, bright, noticeable, or obvious in any way:
+   
+   The room was painted a subtle shade of pink.
+
+   The play's message is perhaps too subtle to be understood by young children
+
+2. small but important:
+
+   There is subtle difference between these two plans.
+
+3. achieved in a quiet way that does not attract attention to itself and is therefore good or clever:
+
+   a subtle plan/suggestion
+
+   subtle questions      
+
+   I could detect subtle variances in fragrance as we strolled through the garden.
+
+   Her conversation sparkled with her own subtle blend of wit and charm.
+
+   The directors managed to secure a good deal for the company with a bit of subtle manoeuvring
+
+#### fragrance
+noun
+
+1. a sweet or pleasant smell:
+
+    the delicate fragrance of roses
+
+2.  a liquid that people put on their bodies to make themselves smell pleasant:
+   
+    a brand new fragrance for men
+
+#### stroll
+verb
+
+to walk in a slow relaxed way, especially for pleasure:
+
+1. We could stroll along the beach after dinner
+2. An elderly couple strolled hand in hand in the park
+
+Synonyms:
+1. saunter
+2. walk
+
+noun
+
+a slow relaxed walk, especially for pleasure:
+
+1. After dinner, we went for a stroll along the beach.
+2. The whole family  was enjoying a leisurely stroll in the subshine
+
+#### manoeuvring
+noun
+
+1. the action of cleverly planning something to get an advantage:
+
+   1. The directors managed to secure a good deal for the company with a bit of subtle manoeuvring.
+
+   2. He claimed he knew nothing about the political manoeuvrings which had got him into power.
+
+2. the action of moving, or of moving something, with skill and care:
+
+   With some careful manoeuvring, I was able to get the car into the narrow space
+
+####  alight
+adjective
+
+1. burning:
+   
+   I had to use a bit of petrol to get the fire alight
+
+   He was smoking in bed and his blankets caught alight.
+
+2. brightly lit up:
+   
+   The sky was alight with hundreds of fireworks.
+
+3. to get out of a vehicle, especially a train or bus:
+
+   The suspect alighted from the train at Euston and proceeded to Heathrow
+
+#### felon
+noun, usually used in LAW
+
+a person  who is guilty of a serious crime
+
+Synonyms:
+1. criminal: noun, someone who commits a crime
+
+2. malefactor: a person who does bad or illegal things
+   
+3. perpetrator: someone who has committed a crime or a violent or harmful act
+
+   the perpetrators of the massacre must be brought to justice as war criminals.
+
+#### shade
+noun
+
+1. slight darkness caused by something blocking the direct light from the sun:
+   
+   ![](./shade_noun_002_33184.jpg)
+
+   The sun was hot, and there were no trees to offer us shade.
+
+   The children played in/under the shade of a large beach umbrella.
+
+2. a covering that is put over an electric light in order to make it less bright:
+
+   The lamps all had matching purple shades.
+
+   lampshade
+
+   ![](./lampsh_noun_002_20589.jpg)
+
+3. shades[informal]: sunglasses:
+
+   She was wearing a black leather jacket and shades.
+
+4. a piece of material fixed onto a wooden or metal roller that can be pulled down to cover a window:
+
+   ![](./shade_noun_002_33187.jpg)     
+
+#### shadow
+noun
+
+an area of darkness, caused by light being blocked by something:
+
+![](./shadow_noun_002_33191.jpg)
+
+The children were playing, jumping on each other's shadows
+
+Jamie followed his mother around all day like a shadow
+
+The sun shone through the leaves, casting/throwing shadows on the lawn.
+
+This corner of the room is always **in** shadow(= slight darkness)
 
 
+eye shadow:
 
+a coloured cream or powder that is put around the eyes to make them look larger or more attractive
 
+![](eyesha_noun_002_13146.jpg)
 
 
 
