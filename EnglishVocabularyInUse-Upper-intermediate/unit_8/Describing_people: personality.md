@@ -730,6 +730,13 @@ adjective
    1. The product does not live up to the extravagant claims of the advertisers.
 
 
+#### assertive
+adjective
+
+Someone who is assertive behaves confidently and is not frightened to say what they want or believe:
+
+If you really want the promotion, you'll have to be more assertive.
+
 #### perceive
 verb
 
