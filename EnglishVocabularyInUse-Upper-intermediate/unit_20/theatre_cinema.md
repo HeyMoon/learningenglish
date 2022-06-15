@@ -21,6 +21,43 @@ adverb: realistically
 
 noun: reality, realist, realism
 
+#### cast
+noun
+
+1. the actors in a film, play, or show:
+   
+   1. After the final performance the director threw a party for the cast.
+   2. Part of the movie's success lies in the strength of the **supporting** cast(= the actors who were not playing the main parts)
+
+2. an object made by pouring hot liquid into a container and leaving it to become solid:
+   
+3. a plaster cast
+   
+   ![](./plaste_noun_002_27933.jpg)
+
+4. in a cast(UK also in plaster)
+
+   If a part of your body is in a cast, it has a plaster cast around it to protect it while a broken bone repairs itself:
+
+   My leg was in a cast for about six weeks.
+
+verb
+
+1. to choose actors to play particular parts in a play, film, or show:
+   
+   1. He was often cast as the villain.
+   2. In her latest movie she was cast **against type**(= played a different character than the one she usually played or might be expected to play)
+
+2. to send light or shadow(= an area of darkness) in a particular direction:
+   
+   1. The moon cast a while light into the room.
+   2. The tree cast a shadow **over/on** his face.
+   3. Her arrival cast a shadow **over/on** the party(= made it less pleasant).
+
+3. cast light on sth: to provide an explanation for a situation or problem, or information that makes it easier to understand:
+   
+   1. The discovery of the dinosaur skeleton has cast light on why they became extinct
+
 #### costume
 noun
 

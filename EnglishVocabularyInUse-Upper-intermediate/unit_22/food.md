@@ -94,6 +94,23 @@ adjective
 
 These peanuts are very moreish, aren't they?
 
+#### buffet
+noun
+
+a meal where people serve themselves different types of food:
+
+![](./buffet_noun_004_0565.jpg)
+
+Are you having a sit-down meal or a buffet at the wedding?
+
+
+verb
+
+(of wind, rain, etc.) to hit something repeatedly and with great force:
+
+The little boat was buffeted mercilessly by the waves.
+
+
 #### unripe
 adjective
 
