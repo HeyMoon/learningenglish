@@ -241,6 +241,8 @@ a feeling of anger because you have been forced to accept something that you do 
 2. This decision has caused resentment among some teachers.
 
 #### harbor
+verb
+
 US, (UK harbour)
 
 to think about or feel something, usually over a long period:
