@@ -195,6 +195,43 @@ verb
    
    Favouritism breeds resentment.
 
+3. (of animals) to have sex and product young animals:
+
+   1. The blackbird, like most birds, breeds in the spring.
+
+noun
+
+1. a particular type of animal or plant:
+   
+   1. a breed of dog/cat/horse/sheep/cattle
+   2. What's your favourite breed of dog/dog breed?
+
+2. (informal) a type of person:
+   
+   1. Arletty was that rare breed of actress - beautiful, sexy and funny.
+   2. A new breed of film-maker has taken over Hollywood.
+   3. Authentic blues singers are a dying breed(= becoming rare) these days.
+
+
+#### foorprint
+noun
+
+1. the mark made by a person's or animal's foot:
+   
+   ![](./footpr_noun_002_14628.jpg)
+
+2. (Engineering, architecture )the amount of space on a surface that something needs:
+
+   1. The new computer has a smaller footprint.
+   2. The footprint of the Treasury building   
+
+3. (business, environment) a measurement of the size, effect,etc. of something:
+   
+   1. We took the decision to invest in new countries and grow our global foorprint.
+
+4. carbon footprint: someone's carbon footprint is a measurement of the amount of carbon dioxide that their activities produce.
+
+
 #### resentment
 noun
 
