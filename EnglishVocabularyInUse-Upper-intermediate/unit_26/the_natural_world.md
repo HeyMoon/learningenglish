@@ -409,3 +409,17 @@ a small flower, or the small flowers on a tree or plant:
 
 ![](./blosso_noun_002_03768.jpg)
 
+#### purse
+noun
+
+1. a small container for money, usually used by a woman:
+   
+   ![](./purse_noun_002_29651.jpg)
+
+   1. a leather purse
+
+2. a handbag:
+   
+   ![](./handba_noun_002_17109_2.jpg)
+
+   
