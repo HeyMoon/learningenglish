@@ -362,6 +362,16 @@ adjective
    2. a filthy joke
    3. (humorous) You've got a filthy mind!
 
+
+#### commuter
+noun
+
+someone who regularly travels between work and home:
+
+1. The train was packed with commters.
+2. Because of disruption caused by the snow, many commuters faced long delays.
+
+
 #### run-down
 adjective
 
