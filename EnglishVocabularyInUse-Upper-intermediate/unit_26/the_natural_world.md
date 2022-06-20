@@ -422,4 +422,15 @@ noun
    
    ![](./handba_noun_002_17109_2.jpg)
 
-   
+
+#### oak
+橡树
+
+#### willow
+柳树
+
+#### maple 
+枫树
+
+#### tulip
+郁金香
