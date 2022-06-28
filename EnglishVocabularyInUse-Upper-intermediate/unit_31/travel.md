@@ -335,5 +335,20 @@ Compare:
 1. carsick
 2. seasick
 
+#### runway
+noun
 
+a long, level piece of ground with a specially prepared smooth, hard surface on which aircraft take off and land.
+
+![](./runway_noun_002_31776.jpg)
+
+Synonyms:
+
+1. airstrip: a long, flat piece of land from which trees, rocks, etc. have been removed so that aircraft can take off and land:
+   
+   1. We landed at a tiny airstrip in the middle of the jungle.
+
+2. landing strip: a long, flat area of ground that is used by aircraft with wings when taking off and landing:
+   
+   
 
