@@ -143,4 +143,17 @@ verb
    2. [+ -ing verb] I'm dreading having to meet his parents.
 
 
+adjective: dreadful: causing fear, shock, or suffering:
+
+The news report was so dreadful that I just had to switch it off.
+
+the dreadful sufferings of the people during this war.
+
+
+dreaded: adjective, before noun
+
+causing fear or worry:
+
+As dawn breaks, another patrol heads out looking for the dreaded roadside bombs
+
 
