@@ -10,7 +10,7 @@ to open the mouth wide and take a lot of air into the lungs and slowly send it o
 #### sneeze
 verb
 
-when you sneeze, air and often small drops of liquid suddenly come out of your nose and mouth in away you cannot control:
+when you sneeze, air and often small drops of liquid suddenly come out of your nose and mouth in a way you cannot control:
 
 ![](./sneeze.png)
 
