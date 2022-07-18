@@ -259,6 +259,21 @@ a close confidant
 Her brother is her closest confidant.
 
 
+#### contempt
+noun
+
+1. a strong feeling of dislikeing and having no respect for someone or something:
+   
+   1. At school she had complete contempt **for** all her teachers.
+   2. You should **treat** those remarks **with** contempt that they deserve.
+   3. She's **beneath** contempt(= I have no respect for her)!
+
+2. behaviour that is illegal because it does not obey or respect the rules of a law court:
+   
+   1. The tobacco companies may be guilty of comtempt of court for refusing to produce the documents.
+
+
+adverb: contemptuously
 
 
 
