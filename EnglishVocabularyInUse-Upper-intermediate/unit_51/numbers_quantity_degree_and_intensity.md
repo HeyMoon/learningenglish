@@ -100,4 +100,14 @@ adjective
    
    1. Maddie's a real expert on art, so I feel completely inadequate whenever I talk to her about it.
 
+#### adequate
+adjective
+
+1. enough or satisfactory for a particular purpose:
+   
+   1. Have we got adequate food for 20 guests?
+   2. I didn't have adequate time to prepare.
+   3. It's not a big salary but it's adequate **for** our needs.
+   4. The council's provision for the elderly is barely adequate(= is not enough).
+
 
