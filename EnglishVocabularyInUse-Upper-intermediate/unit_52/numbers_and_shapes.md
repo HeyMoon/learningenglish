@@ -6,6 +6,15 @@ relating to or expressed in a system of counting based on the number ten:
 1. If you calculate the result **to** two decimal places
 
 
+#### dimension
+noun
+
+#### dimensional
+adjective
+
+
+
+
 #### square
 
 
