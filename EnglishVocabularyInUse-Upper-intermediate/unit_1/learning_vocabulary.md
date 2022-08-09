@@ -184,11 +184,17 @@ noun
    Thanks to a large gift from an anonymous donor, the charity was able to continue its work.
 
 3. the quality of being kind to people and not judging them in a severe way
+
+#### proceeds
+the amount of money received from a particular event or activity or when something is sold:
+
+1. **The** proceeds **of** today's festival will go to several local charities.
+2. It says on the back of the the card **all proceeds to charity**.
    
 #### coin
 verb
 
-1. to invert a new word or expression, or to use one in a particular way for the first time:
+1. to invent a new word or expression, or to use one in a particular way for the first time:
    
    to coin new words/ a term / a phrase
 

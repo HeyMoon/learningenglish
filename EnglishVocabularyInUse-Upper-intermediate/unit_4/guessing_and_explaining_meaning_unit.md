@@ -58,7 +58,7 @@ noun
 
 2. remaining popular or useful for a long time:
    
-   For longevity in car design, you really need to keep is simple.
+   For longevity in car design, you really need to keep it simple.
 
 #### majestic
 adjective

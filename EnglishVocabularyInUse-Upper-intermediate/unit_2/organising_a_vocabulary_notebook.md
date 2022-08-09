@@ -62,7 +62,7 @@ noun
 
    There was a **mad** dash for the exit.
 
-   As soom as the rain dies down I'm going to **make a ** dash **for it** (= run somewhere very fast)
+   As soon as the rain dies down I'm going to **make a**  dash  **for it** (= run somewhere very fast)
 
 2. a small amount of something added to or mixed with something else:
    
