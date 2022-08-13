@@ -55,7 +55,7 @@ adjective
 
    I found myself unable to articulate my feelings
 
-   Many people are opposed to the law, but have had no opportunity to articulate their opposition.   
+   Many people are opposed to the new law, but have had no opportunity to articulate their opposition.   
 
 #### witty
 using words in a clever and funny way:

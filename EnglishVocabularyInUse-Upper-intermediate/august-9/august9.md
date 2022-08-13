@@ -55,6 +55,34 @@ adjective
    3. She burst into dramatic floods of tears.
 
 
+#### sparkle
+verb
+
+to shine brightly with a lot of small points of light:
+
+1. The snow/sea sparkled in the sunlight.
+
+If a person or performance sparkles, they are energetic, interesting, and exciting:
+
+1. Alice is shy and quiet at parties, but her sister really sparkles!
 
 
+#### bunch
+noun
 
+1. a number of things of the same type fastened together or in a close group:
+   
+   1. a bunch of flowers/grapes/bananas/keys
+   
+2. a group of people:
+
+   1. They're a bunch of jerks.
+   2. Your friends are a nice bunch.   
+
+#### perceive
+verb
+
+to come to an opinion about something, or have a belief about something:
+
+1. How do the French perceive the British?
+2. Women's magazines are often perceived to be superficial.
