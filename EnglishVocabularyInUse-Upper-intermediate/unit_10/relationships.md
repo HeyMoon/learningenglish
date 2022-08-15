@@ -29,6 +29,7 @@ Idioms:
 have a passing/slight/nodding acquaintance with sth:
 
 [formal] to have very little knowledge or experience of a subject
+
     I'm afraid I have only a nodding acquaintance with his works.
 
 related word:
@@ -40,6 +41,7 @@ a relationship between two people who have met but do not know each other wellã€
 + Ours was a strictly professional acquaintanceship.
 + He proposed to his wife after only three days of acquaintanceship.
 + She struck up an acquaintanceship with the owner of the convenience shop.
+   
    strike up something means to create or establish a relationship or conversation with someone
 
    She struck up a relationship with an artist soon after she arrived in Paris

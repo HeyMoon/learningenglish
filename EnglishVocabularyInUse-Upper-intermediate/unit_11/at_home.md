@@ -15,7 +15,7 @@ synonyms:
 + aloof: [adjective] 
   1. not friendly or willing to take part in things
     
-     She seemed rather aloof when in fact she was just 
+     She seemed rather aloof when in fact she was just shy
      
   2. not interested or involved, usually because you do not approve of what is happening
      
@@ -62,7 +62,7 @@ noun
 1. a flat raised area
    
 
-2. a flat area of stone or grass outside a house, where people sit ans sometimes eat
+2. a flat area of stone or grass outside a house, where people sit and sometimes eat
     
     ![](./terrac_noun_004_2571.jpg)
 
