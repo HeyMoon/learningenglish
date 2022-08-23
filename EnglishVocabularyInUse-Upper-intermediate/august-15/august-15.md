@@ -47,4 +47,44 @@ You can't giva away Granny's old bookcase - it's a valuable antique.
 My mother collects antiques.
 
 
+#### evacuation
+noun
+
+#### evacuee
+
+#### disintegrated
+
+
+#### oppression
+
+#### veil
+noun
+
+a piece of thin material worn by women to cover the face or head:
+
+![](./veil_noun_002_39952.jpg)
+
+#### pious
+adjective
+
+strongly believing in religion, and living in a way that shows this belief:
+
+she is a pious follower of the faith, never missing her prayers.
+
+#### wade
+
+#### stinking
+adjective
+
+having a very unpleasant smell:
+
+#### furious
+adjective
+
+extremely angry:
+
+
+#### escorted
+
+
 

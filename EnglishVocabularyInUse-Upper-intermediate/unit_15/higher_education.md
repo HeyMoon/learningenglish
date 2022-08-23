@@ -1,3 +1,21 @@
+#### bachelor
+noun
+
+a man who has never married:
+
+He remained a bachelor until he was well into his 40s.
+
+Sam is a confirmed bachelor.
+
+#### programme/program
+noun
+
+a broadcast on television or radio
+
+
+
+
+
 #### dissertation
 noun
 

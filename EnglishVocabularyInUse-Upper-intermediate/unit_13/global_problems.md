@@ -87,4 +87,9 @@ noun
    He was a rebel when he was a teenager and dyed his hair pink.
 
 
+#### immune
+adjective
+
+protected against a particular disease by particular substances in the blood
+
 

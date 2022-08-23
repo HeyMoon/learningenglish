@@ -204,7 +204,7 @@ noun
 
 2. knives, forks, spoons, etc. made of steel or other materials
    
-![](./chilli_noun_002_06621.jpg)
+![](./cutler_noun_002_09626.jpg)
 
 
 

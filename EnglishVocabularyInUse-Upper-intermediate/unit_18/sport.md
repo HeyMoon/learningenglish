@@ -106,7 +106,7 @@ noun
 
 a small, light, narrow boat, pointed at both ends and moved using a paddle(= a short pole with a flat blade)
 
-![](./cane_noun_002_05401_2.jpg)
+![](./canoe_noun_002_05423.jpg)
 
 #### oar
 noun
@@ -118,6 +118,12 @@ a long pole with a wide, flat part at one end, used for rowing a boat:
 a pair of oars
 
 She dipped her oars into the water and pulled.
+
+#### dip
+to put something into a liquid for a short time:
+
+1. Dip the fish in the batter, then drop it into the hot oil.
+2. She dipped her toe into the pool to see how cold it was.
 
 #### rowing
 noun
@@ -136,6 +142,18 @@ a long, thin pole made of wood or metal:
 He was given a fishing rod for his birthday.
 
 The concrete is strengthened with steel rods
+
+#### trophy
+a prize, such as a gold or silver cup, that is given to the winner of a competition or race, and often returned after a year to be given to the winner of the competition in the following year:
+
+![](./trophy_noun_001_18211.jpg)
+
+
+#### spectator 
+noun
+
+a person who watches an activity, especially a sports event, without taking part:
+
 
 
 

@@ -1,3 +1,10 @@
+#### allege
+verb
+
+to say that someone has done something illegal or wrong without giving proof:
+
+
+
 #### allegedly
 adverb
 

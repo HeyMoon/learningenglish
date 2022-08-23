@@ -43,6 +43,8 @@ adjective
 
 
 3. due to: because of
+    a lot of her unhappiness is due to boredom.
+    The bus was delayed due to heavy snow.
 
 4. owed as a debt or as a right:
    
@@ -84,7 +86,7 @@ Mankind has always been obsessed by power.
 
 Your trouble is you are obsessed with work! You are a workaholic.
 
-She is obsessed with personal hygiene and washes constanly.
+She is obsessed with personal hygiene and washes constantly.
 
 The dentist stresssed the need for good oral hygiene.
 
