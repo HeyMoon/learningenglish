@@ -19,13 +19,13 @@ You could just see his eyes behind the thick lenses of his spectacles.
 #### vision
 noun
 
-1. an idea or mental image of something:
+1. (mental image) an idea or mental image of something:
    
    1. We see in his novels his sinister, almost apocalyptic, vision **of** the future.
 
    2. Johnny was late home and, as usual, I **had** visions **of** him lying dead in some alley.
 
-2. the ability to imagine how a country, society, industry, etc. could develop in the future and to plan for this:
+2. (view of the future) the ability to imagine how a country, society, industry, etc. could develop in the future and to plan for this:
    
    1. He didn't have the mental agility or vision required for a senior politician.
    2. a person of great artistic vision
@@ -206,7 +206,12 @@ verb
    3. She was diagnosed **with/as** having diabetes.
 
 
+#### thermometer
+noun
 
+a device used for measureing temperature, especially of the air or in a person's body
+
+![](./thermo_noun_001_17573.jpg)
 
 
 

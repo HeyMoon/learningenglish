@@ -55,7 +55,7 @@ noun
 
    ![](./hood_noun_004_1525.jpg)
 
-#### culf
+#### cuff
 noun
 
 1. (around wrist, ankle) the thicker material at the end of a sleeve closest to the hand:

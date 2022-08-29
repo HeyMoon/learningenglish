@@ -191,7 +191,7 @@ verb
    
    2. His main income comes from breeding cattle.
 
-2. to cause something ro happen, usually something bad:
+2. to cause something to happen, usually something bad:
    
    Favouritism breeds resentment.
 

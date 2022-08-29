@@ -267,3 +267,13 @@ noun
    ![](./surgeo_noun_002_36802.jpg)
 
    1. The surgeon makes a small incision into which a tube is inserted.
+
+#### prescribe
+verb
+
+1. (of a doctor) to say what medical treament someone should have:
+   
+   1. The drug is often prescribed for ulcers.
+   2. I've been prescribed painkillers.
+
+
