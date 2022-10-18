@@ -274,7 +274,7 @@ smelling or tasting very strong and sharp:
 adverb: pungently
 noun: pungency
 
-#### fragant
+#### fragrant
 adjective
 
 with a pleasant smell:

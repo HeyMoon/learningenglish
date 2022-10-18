@@ -26,7 +26,7 @@ conflicting beliefs, needs, facts, etc. are different and opposing:
 #### passionately
 adverb
 
-1. in a way that shows that you have very strong feeling or emotions:
+1. in a way that shows that you have very strong feelings or emotions:
    
    1. Ann has always believed passionately in women's rights.
    2. I feel passionately that I did the right thing.
@@ -72,5 +72,6 @@ extremely angry:
 
 1. I was late and he was furious **with** me.
 2. He's furious **about/at** the way he's been treated.
+3. We had a furious debate about the death penalty.
 
 

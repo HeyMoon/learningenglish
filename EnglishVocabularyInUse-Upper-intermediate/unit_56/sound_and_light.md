@@ -183,7 +183,7 @@ noun/verb
 
 the sound that is made when something heavy falls or hits something else:
 
-1. The boy fell to the ground **with a ** thud.
+1. The boy fell to the ground  **with a** thud.
 2. I could hear the thud **of** horses'hoofs down the dirt road.
 
 #### gloomy

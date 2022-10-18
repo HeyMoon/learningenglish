@@ -221,7 +221,7 @@ a snow-covered area or track that is suitable for skiing:
 #### exclusive
 adjective
 
-1. limited to only on person or group of people:
+1. limited to only one person or group of people:
    
    1. This room is for the exclusive use of guests.
    2. an exclusive interview

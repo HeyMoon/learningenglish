@@ -138,7 +138,7 @@ verb
    1. Laura winked **at** me as Stephen turned his back.
    2. For a second I thought he was being serious, but then he winked **at** me.
 
-2. When light wink, they keep flashing on and off quickly:
+2. When lights wink, they keep flashing on and off quickly:
    
    1. Reflected in the water, the lights winked **at** us from the other side of the lake.
    2. The light was winking on the answering machine.
@@ -213,6 +213,15 @@ to shake slightly in a way that you cannot control, for example because you are 
 1. I was trembling **with** fear, panicking that I had not made the right decision.
 2. At her side Michael trembled **uncontrollably**. He was so distraught he could not speak.
 
+#### distraught
+extremely worried, nervous, or upset
+
+The missing child's distraught parents made an emotional appeal for information on TV
+
+#### overwrought
+in a state of being upset, nervous, and worried:
+
+She was so tired and overwrought that she burst into tears.
 
 
 

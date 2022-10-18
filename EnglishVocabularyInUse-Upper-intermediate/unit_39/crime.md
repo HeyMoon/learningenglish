@@ -36,6 +36,14 @@ noun
    
    1. She was a psychic who are later revealed to be a fraud.
 
+#### extradition
+noun
+
+the act of making someone return for trial to another country or state where they have been accused of doing something illegal:
+
+   1. They have applied for his extradition to Ireland.
+   2. His lawyers say he plans to fight extradition.
+   3. an extradition treaty.
 
 #### fraudster
 noun
@@ -100,6 +108,15 @@ a person who intentionally starts a fire in order to damage or destroy something
 noun
 
 a person who helps someone elese to commit a crime or to do something morally wrong:
+
+#### accessory
+noun
+
+1. something added to a machine or to clothing that has a useful or decorative purpose:
+    1. She wore a green wool suit with matching accessories(= shoes, hat, bag, etc)
+    2. Sunglasses are much more that a fashion accessory.
+3. someone who helps another person to commit a crime but does not take part in it:
+    1. an accessory to murder
 
 #### conclusive
 adjective

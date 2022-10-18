@@ -11,6 +11,9 @@ verb
    
    1. After much persuasion they managed to extract the information **from** him.
 
+2. a particular part of a book, poem, etc. that is chosen so that it can be used in a discussion, article, etc.
+
+
 #### persuasion
 noun
 

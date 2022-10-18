@@ -28,7 +28,7 @@ noun
    1. dress fabric
    2. cotton fabrics
 
-2. the fabric of sth: the struct or parts of something:
+2. the fabric of sth: the structure or parts of something:
    
    1. the fabric of society
    2. Unhappiness was woven into the natural fabric of people's lives.

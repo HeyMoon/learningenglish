@@ -102,6 +102,7 @@ noun
    2. a guest conductor.
 
 2. (US, Uk guard) a railway official who travels on and is responsible for a train.
+3. someone whose job is to sell tickets on a bus,train, or other public vehicle.
 
 #### liner
 noun
@@ -205,6 +206,10 @@ noun
 
    ![](./cabin_noun_004_0599.jpg)
 
+#### cabin crew
+noun
+
+in an aircraft, the people whose job it is to take care of the passengers.
 
 #### cruise
 noun

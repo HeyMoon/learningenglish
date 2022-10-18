@@ -35,8 +35,7 @@ verb
 
 1. to lost strength or purpose and stop, or almost stop:
    
-
-####    
+ 
 
 
 

@@ -138,7 +138,7 @@ noun
 
 a bar or handle that moves around a fixed point, so that one end of it can be pushed or pulled in order to control the operation of a machine or move a heavy or stiff object.
 
-#### ratate
+#### rotate
 verb
 
 1. to turn or cause something to turn in a circle, especially around a fixed point:
