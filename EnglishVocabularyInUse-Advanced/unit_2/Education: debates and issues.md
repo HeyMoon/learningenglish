@@ -88,6 +88,15 @@ verb
 
    2. The aim of the association is to perpetuate the skills of traditional furniture design.
 
+#### perpetual
+adjective
+
+1. continuing for ever in the same way:
+   
+   1. They lived in perpetual fear of being discovered.
+   2. He has hard, cold eyes and his mouth is set in a perpetual sneer.
+   3. a perpetual student.
+
 #### perceive
 verb
 
