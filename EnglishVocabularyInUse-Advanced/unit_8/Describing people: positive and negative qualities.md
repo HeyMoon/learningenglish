@@ -521,6 +521,10 @@ adjective, formal disapproving
    1. a verbose explanation/report/speech/style.
    2. He was a notoriously verbose after-dinner speaker.
 
+Synonyms
+1. wordy
+2. long-winded
+
 
 #### garrulous
 adjective
