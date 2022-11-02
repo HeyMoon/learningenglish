@@ -187,6 +187,25 @@ noun
    1. The mourning could be heard all day and all night.
 
 
+#### mourner
+noun
+
+1. a person at a funeral:
+   
+   1. The dead man's wife and children were the chief mourner
+   
+
+#### bereaved
+adjective
+
+1. having a close relation or friend who has recently died:
+   
+   1. a bereaved widow
+   2. The bereaved parents wept openly.
+
+
+
+
 #### cremation
 noun
 
@@ -194,6 +213,19 @@ noun
    
    1. My dad's cremation was a sad affair.
    2. Many people choose cremation rather than burial.
+
+#### creamatorium
+noun
+
+1. a building where dead people's bodies are burned, usually as part of a funeral ceremony.
+   
+
+#### burial
+noun
+
+1. the acting of putting a dead body into the ground, or the ceremony connected with this:
+   
+   1. We went back to Ireland for my uncle's burial.
 
 
 #### scatter
@@ -251,6 +283,14 @@ verb
    
    1. Her father bequeath her the family fortune in his will.
 
+#### bequest
+noun
+
+1. the money or property belonging to someone that they say that, after their death, they wish to be given to other people:
+   
+   1. Her will included small bequests **to** her family, while most of her fortune went to charity.
+
+
 #### inherit
 verb
 
@@ -259,6 +299,12 @@ verb
    1. Who will inherit the house when he dies?
    2. All her children will inherit equally.
 
+#### inheritance
+noun
+
+1. money or objects that someone gives you when they die:
+   
+   1. The large inheritance **from** his aunt meant that he could buy his own boat.
 
 #### intestate
 adjective
