@@ -42,6 +42,23 @@ adjective
    1. a far-fetched idea/story
 
 
+#### credible
+adjective
+
+1. able to be believed or trusted:
+   
+   1. They haven't produced any credible **evidence** for convicting him.
+   2. The story of what had happend to her was **barely** (= almost not) credible.
+
+Synonym:
+
+1. believable
+
+Opposite:
+
+1. incredible
+
+
 #### risque
 adjective
 
@@ -270,9 +287,21 @@ noun
    1. His latest movie is a grim portrayal **of** wartime suffering.
 
 
+#### suspense
+noun
+
+1. the feeling of excitement or nervousness that you have when you are waiting for something to happen and are uncertain about what it is going to be:
+   
+   1. She **kept** him **in** suspense for several days before she said that she would marry him.
+   2. The suspense **is killing** me(= I am extremely eager to know what is going to happen).
 
 
+#### budding
+adjective
 
+1. beginning to develop or show signs of future success in a particular area:
+   
+   1. While still at school she was clearly a budding **genius**.
 
 
 

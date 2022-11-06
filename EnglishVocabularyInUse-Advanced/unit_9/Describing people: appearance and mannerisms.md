@@ -6,6 +6,12 @@ adjective
    1. He put his hands around her slender waist.
    2. The plant's leaves are long and slender.
 
+#### svelte
+adjective
+
+1. attractively thin, graceful, and stylish
+
+
 #### scrawny
 adjective
 
