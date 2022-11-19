@@ -281,7 +281,7 @@ adjective
 
 2. (传统的) traditional: 
    
-   1. [ + to infinitive ] In my village, it is **customary** **for** a girl **to** take her mother's name. 在我们村，女孩按习俗随母姓。
+   1. [ + to infinitive ] In my village, it is **customary** **for** a girl **to**g take her mother's name. 在我们村，女孩按习俗随母姓。
 
 
 
