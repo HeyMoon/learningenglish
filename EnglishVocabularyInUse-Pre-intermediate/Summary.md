@@ -566,7 +566,90 @@ The conference is being held **in** Delhi. (NOT The conference is being held at 
 
 
 
+## English vocabulary in use Elementary
 
+### Unit 42 Come/came/come
+
+Come and go are different:
+
+![](./come_and_go.png)
+
+go: from here to there
+
+come: from there to here
+
+#### Come in/out
+We say 'Come in!' when someone knocks at the door of a room. Then the person who knocked **comes into** the room.
+
+**come out(of)** is often the opposite of **come in(to)**.
+
+A woman came out of the shop with two big bags.(I was in the street). 
+
+If I was in the shop, then it will say: A woman go out of the shop with two big bags.
+
+
+### Unit 42 Bring/brought/brought
+
+#### Bring and take
+take(like go) = from here to there
+
+bring(like come) = from there to here.
+
+![](./bring_and_take.png)
+
+1. Are you going to school? **Take** your books.(= from here to the school)
+2. Are you going to the kitchen? Can you **bring** me a glass?(= from the kitchen to here)
+3. Please **take** this form to the secretary(= the secretary is there).
+4. Come to my house tomorrow and **bring** your guitar.(= for me, my house is here)
+
+### Unit 51 Days,months,seasons
+
+We say at + the weekend: I went to the cinema at the weekend.
+
+We say on + days of the week: on Monday, on Saturday, etc. I saw her **on Friday/on Tuesday** evening.
+
+We say in + months/seasons: in July, in December, in (the) spring, in (the) summer, etc.  Birds sing in (the) spring.
+
+morning: before 12 pm
+afternoon: between 12 pm and 5 or 6 pm
+evening: from 5 or 6 pm until about 9 or 10 pm.
+night: after 9 or 10 pm 
+
+### Unit 52 Time words
+
+#### Frequency adverbs
+
+![](./frequency.png)
+
+
+### Unit 53 Places
+
+**At** a point or place, e.g. I met her **at** the bus stop. He's **at** work at the moment.
+
+**On** a surface, e.g. The book's **on** the desk. They sat **on** the floor. I put the picture **on** the wall.
+
+**In** an area, space, or inside something, e.g. He's **in** the kitchen. She lives **in** Warsaw/Poland. The knife's **in** the top drawer.
+
+![](./place_prepositions.png)
+
+1. Luke is **in** the kitchen, making dinner.
+
+2. There are two restaurants **in** the village. 
+
+3. Samantha lives **in** Seoul / South Korea / Asia.
+
+4. I'll meet you **at** the station.
+
+5. I always sit **at** the front of the class.
+
+6. I like that photo **on** the wall.
+
+7. Don't put your books **on** the chair. I want to sit **on** it!
+
+
+### Unit 56 Common adjectives: Good and bad things
+
+![](./good_adjectives.png)
 
 
 
